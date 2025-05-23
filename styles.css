@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: url('image-2.png');
+    background-repeat: repeat;
+    background-size: 50px 50px; /* Makes each tile 50x50 pixels */
+}
